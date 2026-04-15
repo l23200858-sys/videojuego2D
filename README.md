@@ -25,13 +25,18 @@ La implementación de este videojuego permite demostrar el dominio de:
 * **Interfaz:** El juego incluye un contador dinámico de puntos, música de fondo activada por interacción y un puntero personalizado.
 
 ## 5. Conclusiones
+* Nancy Jazareth Lugo Cruz
 El desarrollo de este examen permitió integrar conocimientos de geometría analítica y física básica con programación web moderna. Se logró optimizar el rendimiento del juego mediante el uso de `requestAnimationFrame` y se cumplió con la rigurosa estructura de archivos solicitada (`/assets/img`, `/assets/audio`, `/js`). La publicación exitosa en GitHub Pages valida la capacidad técnica para entregar productos de software listos para el usuario final.
 
-### Datos del ALumno
-* **Nombre:** Nancy Jazareth Lugo Cruz
-* **Número de Control:** 23200858
+*Iker Adrik Perez Badillo
+Al termino de esta practica se obtuvo un reforzamiento de todos los temas vistos en clase acerca de la creación, comportamiento y características de los objetos 2D y el comportamiento que estos tienen en el escenario donde se coloquen. Entendiendo que el funcionamiento del 2D tiene caracteristicas peculiares a las de otros objetos o distintas a como son los comportamientos de un objeto en 3D. Entendiendo la importancia de poder manipular distintos objetos 2D.
+
+*Karla Esperanza Sanchez Esqueda
+En esta práctica desarrollamos un videojuego con objetos en movimiento, colisiones y comportamiento aleatorio. Usando elementos visuales y de interacción para mejorar la experiencia y utilizando las competencias vistas en la unidad además de usar Git y GitHub para el control de versiones y publicación del proyecto, un reto importante fue lograr que los objetos no se encimaran incorrectamente o se comportaran de forma extraña al colisionar. La solución fue ajustar la lógica de colisiones y aplicar correctamente el rebote, verificando las posiciones y direcciones de cada objeto.
+
+### Datos del Equipo
 * **Materia:** Graficación
 * **Carrera:** Ingeniería en Sistemas Computacionales
-
----
-**Repositorio:** [https://github.com/l23200858-sys/videojuego2D.git](https://github.com/l23200858-sys/videojuego2D.git)
+* Nancy Jazareth Lugo Cruz - 23200858
+*Iker Adrik Perez Badillo - 23200876
+*Karla Esperanza Sanchez Esqueda - 23200898
