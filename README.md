@@ -1,4 +1,4 @@
-# Examen Unidades III y IV - Graficación (I.S.C.)
+# Examen Seguimiento 2 - Graficación (I.S.C.)
 **Instituto Tecnológico de Pachuca** **Profesor:** M.T.I. Luis Alejandro Santana Valadez  
 **Fecha:** 15 de Abril de 2026
 
